@@ -1,5 +1,5 @@
 {
-  "name": "sass-example",
+  "name": "l2funpvp",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Gordondalos/sass-example.git"
+    "url": ""
   },
-  "author": "gordondalos@gmail.com",
+  "author": "heavyyrain3039@gmail.com",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Gordondalos/sass-example/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/Gordondalos/sass-example#readme",
+  "homepage": "",
   "dependencies": {},
   "devDependencies": {
     "browser-sync": "2.24.7",
