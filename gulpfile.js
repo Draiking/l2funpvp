@@ -49,7 +49,7 @@ var config = {
     tunnel: true,
     host: 'localhost',
     port: 9000,
-    logPrefix: "gordon"
+    logPrefix: "Draiking"
 };
 
 var sourceFiles = ['src/mock/**/*.json'];
