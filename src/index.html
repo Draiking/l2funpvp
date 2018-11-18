@@ -9,10 +9,11 @@
     <title>l2funpvp</title>
 </head>
 <body>
-@@include('./html/header.html')
-@@include('./html/content.html')
-@@include('./html/footer.html')
-
+<div class="d-flex flex-column h-100">
+    <div>@@include('./parts/header/header.html')</div>
+    <div class="flex-grow-1">@@include('./parts/content/content.html')</div>
+    <div>@@include('./parts/footer/footer.html')</div>
+</div>
 
 
 
